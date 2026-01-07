@@ -48,7 +48,7 @@ The goal is to:
 - Returns
 - People
 - Date table
-- Date is from edureka https://www.edureka.co/signin
+- Date is from edureka https://www.edureka.co
   
 ### Excel Data Cleaning
 Excel was used for initial data preparation:
@@ -131,10 +131,10 @@ Filters allow users to dynamically explore performance across regions and time p
 
 ## Row-Level Security (RLS)
 
-### 🔹 Static Roles
+### Static Roles
 - Market-based roles restricting data visibility by region
 
-### 🔹 Dynamic RLS
+### Dynamic RLS
 - Implemented using:
   - `USERPRINCIPALNAME()`
   - Country Access mapping table
@@ -142,7 +142,7 @@ Filters allow users to dynamically explore performance across regions and time p
 
 ---
 
-## ☁ Power BI Service Deployment
+##  Power BI Service Deployment
 - Published report to Power BI Service
 - Assigned users to security roles
 - Tested roles using **View As Role**
@@ -161,8 +161,8 @@ Filters allow users to dynamically explore performance across regions and time p
 ---
 
 ## Dashboard Preview
-Sales Summary Dashboard (dashboard_screenshots/sales_summary_dashboard.png)
-Q&A Analysis Dashboard 
+-Sales Summary Dashboard (dashboard_screenshots/sales_summary_dashboard.jpg)
+-Q&A Analysis Dashboard (dashboard_screenshots/Q&A Analysis)
 
 ##  Repository Structure
 
