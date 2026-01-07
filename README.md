@@ -43,13 +43,14 @@ The goal is to:
 
 ##  Data Preparation (Excel & Power BI)
 
-### 🔹 Data Sources (Excel)
+### Data Sources (Excel)
 - Orders
 - Returns
 - People
 - Date table
-
-### 🔹 Excel Data Cleaning
+- Date is from edureka https://www.edureka.co/signin
+  
+### Excel Data Cleaning
 Excel was used for initial data preparation:
 - Removed duplicate records
 - Checked for missing or invalid sales and profit values
@@ -58,7 +59,7 @@ Excel was used for initial data preparation:
 
 ---
 
-### 🔹 Power BI Data Transformation (Power Query)
+### Power BI Data Transformation (Power Query)
 - Promoted headers for Returns table
 - Removed extra rows and promoted headers for People table
 - Removed unnecessary columns (Ship Date, Postal Code, Product Name, etc.)
@@ -66,7 +67,7 @@ Excel was used for initial data preparation:
 - Optimized tables to reduce model size
 ---
 
-### 🔹 Data Modeling
+### Data Modeling
 - Created relationships between:
   - Orders
   - Returns
@@ -78,7 +79,7 @@ Excel was used for initial data preparation:
 
 ---
 
-### 🔹 DAX Measures Created
+### DAX Measures Created
 Key metrics were calculated using DAX:
 - **Total Sales**
 - **Total Profit**
