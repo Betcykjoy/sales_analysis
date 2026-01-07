@@ -162,7 +162,7 @@ Filters allow users to dynamically explore performance across regions and time p
 
 ## Dashboard Preview
 -Sales Summary Dashboard (dashboard_screenshots/sales_summary_dashboard.jpg)
--Q&A Analysis Dashboard (dashboard_screenshots/Q&A Analysis)
+-Q&A Analysis Dashboard (dashboard_screenshots/Q&A Analysis.jpg)
 
 ##  Repository Structure
 
