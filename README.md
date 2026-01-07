@@ -76,7 +76,6 @@ Excel was used for initial data preparation:
 - Designed a **star-schema-style model** for efficient reporting
 - Ensured correct granularity for time-based analysis
 
-
 ---
 
 ### DAX Measures Created
@@ -160,6 +159,10 @@ Filters allow users to dynamically explore performance across regions and time p
 - Sales trends vary significantly by year and region
 
 ---
+
+## Dashboard Preview
+Sales Summary Dashboard (dashboard_screenshots/sales_summary_dashboard.png)
+Q&A Analysis Dashboard 
 
 ##  Repository Structure
 
